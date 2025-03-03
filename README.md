@@ -1,4 +1,4 @@
-<h1>Hello I'm Joel, an <a href="https://www.linkedin.com/in/soug123/">IT Specialist</a>☺</h1>
+<h1>Hello I'm Joel, an <a href="https://www.linkedin.com/in/jorge-amaya-61102818b/">IT Specialist</a>☺</h1>
 
 <h2>🖥️ Information Technology Projects🖥</h2>
 
