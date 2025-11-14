@@ -1,4 +1,3 @@
-<h1>Hello I'm Jorge, an <a href="https://www.linkedin.com/in/jorge-amaya-61102818b/">IT Specialist</a>
 <h2>🖥️ Information Technology Projects🖥</h2>
 
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
